@@ -9,6 +9,7 @@ Bebidas Disponibles:
 - Jugo de naranja
 - Café
 
+
 Primeros Platos:
   -papas fritas y huevo
   -lassaña
@@ -18,6 +19,10 @@ Primeros Platos:
 
 
 Segundos Platos:
+pescado ahumado
+salmon al horno cerdo a la barbacoa
+rissotto de champiñomes
+tacos de pescado
 
 
 
