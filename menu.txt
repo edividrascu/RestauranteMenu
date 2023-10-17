@@ -1,1 +1,20 @@
-prueba menu de carne
+Restaurante: El Sabor de España
+Tipo de Menú: PESCADO
+Bebidas Disponibles:
+- Agua mineral
+- Refresco de cola
+- Vino tinto
+- Vino blanco
+- Cerveza
+- Jugo de naranja
+- Café
+
+Primeros Platos:
+
+
+Segundos Platos:
+
+
+
+Postres:
+
