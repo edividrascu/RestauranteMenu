@@ -10,11 +10,7 @@ Bebidas Disponibles:
 - Café
 
 Primeros Platos:
-  -papas fritas y huevo
-  -lassaña
-  -pizza turca
-  -comida japo
-  -ensalada de lechuga
+
 
 
 Segundos Platos:
