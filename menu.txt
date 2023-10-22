@@ -9,6 +9,11 @@ Bebidas Disponibles:
 - Jugo de naranja
 - Café
 
+Entrantes:
+
+- Patatas bravas
+- Tortilla de Patatas
+- Salmorejo
 
 Primeros Platos:
 
